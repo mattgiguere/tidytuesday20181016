@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tidytuesday20181016"
+  site-url: "https://mattgiguere.github.io/tidytuesday20181016"
+  description: "Economic Guide to Picking a College Major Exploratory Analysis"
+  repo-branch: main
+  repo-url: "https://github.com/mattgiguere/tidytuesday20181016"

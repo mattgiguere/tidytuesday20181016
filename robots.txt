@@ -1,0 +1,1 @@
+Sitemap: https://mattgiguere.github.io/tidytuesday20181016/sitemap.xml
